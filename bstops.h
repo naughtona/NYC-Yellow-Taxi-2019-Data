@@ -49,3 +49,5 @@ int *comparisons, int *found, char *filename);
  * freeList function, which frees the linked list in each BST node struct. 
  */
 void freeTree(struct bstNode *parent);
+
+#endif
