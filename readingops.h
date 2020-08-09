@@ -1,3 +1,13 @@
+// Andrew Naughton 9/8/2020
+
+#ifndef READINGOPS_H
+#define READINGOPS_H
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <assert.h>
+
 /* These functions help me read from stdin and infiles. They also help me with
  * key and value extraction.
  */
@@ -31,3 +41,5 @@ void separateLine(char **key, char ***data, char *line);
  * the specified outfile.
  */
 void lookUpTaxiZoneIDs(struct bstNode *bst, char *outputFile);
+
+#endif
