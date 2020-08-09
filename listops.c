@@ -1,7 +1,4 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <assert.h>
+// Andrew Naughton 9/8/2020
 
 #include "listops.h"
 #include "bstops.h"
