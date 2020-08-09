@@ -1,7 +1,4 @@
-/* This is the main function for Stage 1. Andrew Naughton is the author 
- * of this c source file and the accompanying header and c source files.
- * 9/9/2019
- */
+// Andrew Naughton 9/8/2020 - This is the main function for Stage 1.
 
 #include <stdio.h>
 #include <stdlib.h>
