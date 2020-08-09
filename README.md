@@ -47,5 +47,10 @@ An example, which you can try with the example data provided in the repo, is:
 ```bash
 ./dict2 nyc_datafile_nh.txt outputfile < example_idsfile
 ```
+## Cleaning
+When you are finished, you can clean your directory of its ``.o`` files and executables, dict1 and dict2, with the following:
+```bash
+make clean
+```
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
