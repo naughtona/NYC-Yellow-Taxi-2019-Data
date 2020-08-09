@@ -1,3 +1,13 @@
+// Andrew Naughton 9/8/2020
+
+#ifndef BSTOPS_H
+#define BSTOPS_H
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <assert.h>
+
 #define NUM_VARS 17
 #define MAX_STRING_LEN 128
 #define MAX_LINE_LEN 256
